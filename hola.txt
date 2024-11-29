@@ -1,1 +1,20 @@
-Hola KEYLYS
+[Ciudad, Fecha]
+
+[Nombre del destinatario]
+[Dirección del destinatario]
+[Ciudad, Código Postal]
+
+Estimado/a [Nombre del destinatario]:
+
+Espero que este mensaje le encuentre bien. Me dirijo a usted para [explicar el motivo de la carta: hacer una consulta, solicitar algo, expresar una opinión, etc.].
+
+A lo largo de [explicar el contexto o razones de la carta], considero importante [detallar lo que se desea expresar o solicitar]. Me gustaría saber su opinión al respecto y, si es posible, [hacer una solicitud, pedir una respuesta, etc.].
+
+Agradezco mucho su tiempo y atención, y quedo a la espera de su respuesta.
+
+Atentamente,
+[Tu nombre]
+[Tu cargo, si aplica]
+[Tu información de contacto]
+
+
